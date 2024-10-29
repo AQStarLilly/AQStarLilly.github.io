@@ -1,0 +1,10 @@
+Regular Purple:		#5e42a6 =>	#feb0cb
+Dark Purple:		#493382 =>	#ee98bd
+Darker Purple:		#312450 =>	#ff769d
+Very Dark Purple:	#261c3e =>	#ee4d6f
+Darkest Purple:		#3c2c62 =>	#e83261
+Light Blu-Purple:	#5052b5 =>	#e4d0ed
+Dark Blu-Purple:	#3e4094 =>	#d894be
+Regular Pink:		#b74e91 =>	#c9ada3
+Dark Pink:		#953d75 =>	#b9867e
+White:			#ffffff =>	#
