@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Unity Projects\\AQStarLilly.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\AQStarLilly.github.io\\pastprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pastprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\AQStarLilly.github.io\\events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\AQStarLilly.github.io\\pastprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pastprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\AQStarLilly.github.io\\currentprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "elements.html",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAGUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-08T22:21:41.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T22:21:41.25Z"
             },
             {
               "$type": "Document",
@@ -59,18 +58,17 @@
               "RelativeToolTip": "currentprojects.html",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-09T01:44:48.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T01:44:48.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "events.html",
               "DocumentMoniker": "C:\\Unity Projects\\AQStarLilly.github.io\\events.html",
               "RelativeDocumentMoniker": "events.html",
               "ToolTip": "C:\\Unity Projects\\AQStarLilly.github.io\\events.html",
               "RelativeToolTip": "events.html",
-              "ViewState": "AgIAADMAAAAAAAAAAAAswEYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-12-09T01:34:10.618Z",
               "EditorCaption": ""
@@ -85,12 +83,11 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAGQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-08T22:21:38.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T22:21:38.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "pastprojects.html",
               "DocumentMoniker": "C:\\Unity Projects\\AQStarLilly.github.io\\pastprojects.html",
               "RelativeDocumentMoniker": "pastprojects.html",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "aboutme.html",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-08T22:21:27.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T22:21:27.817Z"
             }
           ]
         }
