@@ -1,4 +1,4 @@
-@import url(fontawesome-all.min.css);
+﻿@import url(fontawesome-all.min.css);
 
 /*
 	Hyperspace by HTML5 UP
@@ -3425,9 +3425,9 @@ input, select, textarea {
 
 					#header > nav > ul > li a {
 						border: 0;
-						color: rgba(255, 255, 255, 0.35);
+						color: rgba(0, 0, 0);
 						display: inline-block;
-						font-size: 0.6em;
+						font-size: 0.7em;
 						font-weight: bold;
 						letter-spacing: 0.25em;
 						text-transform: uppercase;
@@ -3438,7 +3438,7 @@ input, select, textarea {
 						}
 
 						#header > nav > ul > li a.active {
-							color: #000000;
+							color: #953d75;
 						}
 
 		@media screen and (max-width: 736px) {
@@ -3924,5 +3924,39 @@ input, select, textarea {
 
 		}
 
+
+/* Dropdown Menu */
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #333; /* Matches your site's dark tones */
+	min-width: 160px;
+	box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+	z-index: 1;
+}
+
+	.dropdown-content li {
+		display: block;
+	}
+
+	.dropdown-content a {
+		color: white;
+		padding: 12px 16px;
+		text-decoration: none;
+		display: block;
+	}
+
+		.dropdown-content a:hover {
+			background-color: #555;
+		}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
 
 
