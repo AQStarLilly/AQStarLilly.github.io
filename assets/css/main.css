@@ -3965,3 +3965,44 @@ video {
 	height: auto;
 	display: block;
 }
+
+/* Project Dropdown Styling */
+.project-toggle {
+	width: 100%;
+	background: none;
+	border: none;
+	text-align: left;
+	cursor: pointer;
+	padding: 0;
+}
+
+	.project-toggle h2 {
+		margin: 0;
+		color: #ffffff;
+		transition: color 0.2s ease;
+	}
+
+	.project-toggle:hover h2 {
+		color: #00bfff;
+	}
+
+.project-content {
+	display: none;
+	animation: fadeIn 0.25s ease-in-out;
+}
+
+.project.active .project-content {
+	display: block;
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+		transform: translateY(-4px);
+	}
+
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
