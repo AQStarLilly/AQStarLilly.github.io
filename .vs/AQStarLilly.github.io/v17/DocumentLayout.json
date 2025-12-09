@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Unity Projects\\AQStarLilly.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\AQStarLilly.github.io\\events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\AQStarLilly.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\AQStarLilly.github.io\\aboutme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aboutme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\AQStarLilly.github.io\\events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.css",
               "DocumentMoniker": "C:\\Unity Projects\\AQStarLilly.github.io\\assets\\css\\main.css",
               "RelativeDocumentMoniker": "assets\\css\\main.css",
@@ -54,25 +54,24 @@
               "RelativeToolTip": "assets\\css\\main.css",
               "ViewState": "AgIAAJUPAAAAAAAAAAAAAKsPAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-08T23:53:20.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T23:53:20.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Unity Projects\\AQStarLilly.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Unity Projects\\AQStarLilly.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAIBJwEAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-12-08T19:11:37.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "aboutme.html",
               "DocumentMoniker": "C:\\Unity Projects\\AQStarLilly.github.io\\aboutme.html",
               "RelativeDocumentMoniker": "aboutme.html",
@@ -84,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "featuredpage.html",
               "DocumentMoniker": "C:\\Unity Projects\\AQStarLilly.github.io\\featuredpage.html",
               "RelativeDocumentMoniker": "featuredpage.html",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "featuredpage.html",
               "ViewState": "AgIAACgAAAAAAAAAAAAowDcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-08T19:11:36.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T19:11:36.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "pastprojects.html",
               "DocumentMoniker": "C:\\Unity Projects\\AQStarLilly.github.io\\pastprojects.html",
               "RelativeDocumentMoniker": "pastprojects.html",
@@ -109,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "currentprojects.html",
               "DocumentMoniker": "C:\\Unity Projects\\AQStarLilly.github.io\\currentprojects.html",
               "RelativeDocumentMoniker": "currentprojects.html",
@@ -121,15 +119,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "events.html",
               "DocumentMoniker": "C:\\Unity Projects\\AQStarLilly.github.io\\events.html",
               "RelativeDocumentMoniker": "events.html",
               "ToolTip": "C:\\Unity Projects\\AQStarLilly.github.io\\events.html",
               "RelativeToolTip": "events.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEAAAAC5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-08T19:11:35.657Z"
+              "WhenOpened": "2025-12-08T19:11:35.657Z",
+              "EditorCaption": ""
             }
           ]
         }
